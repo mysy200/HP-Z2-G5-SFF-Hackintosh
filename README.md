@@ -12,8 +12,9 @@ USB Ports mapped and named in USBPorts.kext, check the .plist or just run Hackin
 Specs:
 
     HP Z2 Small Form Factor G5
+    Motherboard intel W480  
     BIOS:  
-    CPU: Intel® Xeon W-1250 @ 3.30 GHz processor
+    CPU: Intel® Xeon W-1250 @ 3.30 GHz processor   Comet Lake 
     GPU: Intel® UHD Graphics P630 / AMD RX550 LP
     Memory: 2 x 8GB Samsung DDR4-2667
     LAN: Intel® I219-LM GbE (en0)
